@@ -30,14 +30,12 @@ Collection of database design projects focused on **conceptual modeling, UML dia
 
 ---
 
-## Technical Interests
+## Current Focus
 
-📊 Data Analysis  
-🤖 Machine Learning  
-🧠 Feature Engineering  
-🏗 Information System Design  
-📐 UML Modeling  
-🐍 Python Development  
+- Data Analysis
+- Machine Learning
+- Information Systems Modeling
+- Data-driven applications
 
 ---
 
