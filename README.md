@@ -16,11 +16,7 @@ The pipeline was first built using **Dataiku DSS** and then fully reimplemented 
 
 🔹 **Clinical Parameters Dashboard**    https://github.com/nataliiaborovyk/clinical-parameters-dashboard
 
-Interactive dashboard for analyzing clinical parameters over time.
-
-- React frontend dashboard  
-- Flask backend API  
-- visualization of patient clinical data and scoring
+Interactive dashboard for analyzing clinical parameters over time.  React frontend + Flask backend.
 
 
 🔹 **RistoBook – Restaurant Booking System**    https://github.com/nataliiaborovyk/ristobook-restaurant-booking-system
