@@ -8,12 +8,10 @@ I enjoy understanding datasets, designing structured systems and building analyt
 
 ## Main Projects
 
-🔹 **Hotel Booking Cancellation Prediction**
+🔹 **Hotel Booking Cancellation Prediction**       https://github.com/nataliiaborovyk/hotel-booking-ml-project
 
 Machine Learning project predicting hotel booking cancellations using historical data.  
 The pipeline was first built using **Dataiku DSS** and then fully reimplemented in **Python** to reproduce the complete ML workflow.
-
-https://github.com/nataliiaborovyk/hotel-booking-ml-project
 
 
 🔹 **Clinical Parameters Dashboard**
