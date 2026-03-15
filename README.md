@@ -6,9 +6,9 @@ I enjoy understanding datasets, designing structured systems and building analyt
 
 ---
 
-## Main Projects
+# Main Projects
 
-**Hotel Booking Cancellation Prediction**  
+## Hotel Booking Cancellation Prediction**  
 Machine Learning project predicting hotel booking cancellations using historical data.  
 Pipeline built in **Dataiku** and fully reimplemented in **Python**.
 
@@ -16,50 +16,38 @@ https://github.com/nataliiaborovyk/hotel-booking-ml-project
 
 ---
 
-**Clinical Parameters Dashboard**  
-Interactive dashboard for analyzing clinical parameters over time.  
-React frontend + Flask backend.
+## Clinical Parameters Dashboard**  
+Interactive dashboard for analyzing clinical parameters over time. React frontend + Flask backend.
 
 https://github.com/nataliiaborovyk/clinical-parameters-dashboard
 
 ---
 
-**RistoBook – Restaurant Booking System**  
+## RistoBook – Restaurant Booking System**  
 Information system modeled with **UML** and implemented in **Python OOP**, exposed through **REST APIs with Flask**.
 
 https://github.com/nataliiaborovyk/ristobook-restaurant-booking-system
 
----
-
 ## Information Systems UML Modeling
 Collection of database design projects focused on **conceptual modeling and relational database design**.
 
-Repository:  
 https://github.com/nataliiaborovyk/information-systems-uml-modeling
-
----
 
 ## Learning Repositories (ITS ICT Academy)
 
 Repositories documenting exercises from my **Data Analyst training**:
 
-### Database Design
-https://github.com/nataliiaborovyk/ITS_BD
+**Database Design   https://github.com/nataliiaborovyk/ITS_BD
 
-### Artificial Intelligence
-https://github.com/nataliiaborovyk/ITS_IA
+**Artificial Intelligence   https://github.com/nataliiaborovyk/ITS_IA
 
-### Python Programming
-https://github.com/nataliiaborovyk/ITS_Python
+**Python Programming   https://github.com/nataliiaborovyk/ITS_Python
 
-### System Design and UML
-https://github.com/nataliiaborovyk/ITS_Progettazione
+**System Design and UML   https://github.com/nataliiaborovyk/ITS_Progettazione
 
-### Computer Security
-https://github.com/nataliiaborovyk/ITS_Sicurezza
+**Computer Security   https://github.com/nataliiaborovyk/ITS_Sicurezza
 
-### Web Development
-https://github.com/nataliiaborovyk/ITS_Web  
+**Web Development   https://github.com/nataliiaborovyk/ITS_Web  
 https://github.com/nataliiaborovyk/ITS_Web_Vite  
 https://github.com/nataliiaborovyk/ITS_Web_React
 
