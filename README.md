@@ -14,7 +14,7 @@ Machine Learning project predicting hotel booking cancellations using historical
 The pipeline was first built using **Dataiku DSS** and then fully reimplemented in **Python** to reproduce the complete ML workflow.
 
 
-🔹 **Clinical Parameters Dashboard**
+🔹 **Clinical Parameters Dashboard**    https://github.com/nataliiaborovyk/clinical-parameters-dashboard
 
 Interactive dashboard for analyzing clinical parameters over time.
 
@@ -22,21 +22,15 @@ Interactive dashboard for analyzing clinical parameters over time.
 - Flask backend API  
 - visualization of patient clinical data and scoring
 
-https://github.com/nataliiaborovyk/clinical-parameters-dashboard
 
-
-🔹 **RistoBook – Restaurant Booking System**
+🔹 **RistoBook – Restaurant Booking System**    https://github.com/nataliiaborovyk/ristobook-restaurant-booking-system
 
 Information system designed using **UML modeling** and implemented as a **Python object-oriented domain model** exposed through **REST APIs with Flask**.
 
-https://github.com/nataliiaborovyk/ristobook-restaurant-booking-system
 
-
-🔹 **Information Systems UML Modeling**
+🔹 **Information Systems UML Modeling**  https://github.com/nataliiaborovyk/information-systems-uml-modeling
 
 Collection of database design projects focused on **conceptual modeling, UML diagrams and relational database design**.
-
-https://github.com/nataliiaborovyk/information-systems-uml-modeling
 
 ---
 
