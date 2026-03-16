@@ -8,13 +8,13 @@ I enjoy understanding datasets, designing structured systems and building analyt
 
 ## Main Projects
 
-🔹 **[Hotel Booking Cancellation Prediction](https://github.com/nataliiaborovyk/hotel-booking-ml-project)**
+🔹 **[Hotel Booking Cancellation Prediction  – ML Project](https://github.com/nataliiaborovyk/hotel-booking-ml-project)**
 
 Machine Learning project predicting hotel booking cancellations using historical data.  
 Pipeline built in **Dataiku** and fully reimplemented in **Python**.
 
 
-🔹 **[Clinical Parameters Dashboard](https://github.com/nataliiaborovyk/clinical-parameters-dashboard)**
+🔹 **[SIATE – Clinical Parameters Dashboard](https://github.com/nataliiaborovyk/clinical-parameters-dashboard)**
 
 Interactive dashboard for analyzing clinical parameters over time.  
 React frontend + Flask backend.
