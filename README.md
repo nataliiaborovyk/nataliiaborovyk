@@ -25,6 +25,12 @@ React frontend + Flask backend.
 Information system modeled with **UML** and implemented in **Python OOP**, exposed through **REST APIs with Flask**.
 
 
+🔹 **[ML Models Playground](https://github.com/nataliiaborovyk/ml-models-playground)**
+
+Collection of **machine learning models and neural network experiments** developed during my Data Analyst training.  
+Includes classical ML models and deep learning experiments.
+
+
 🔹 **[Information Systems UML Modeling](https://github.com/nataliiaborovyk/information-systems-uml-modeling)**
 
 Collection of database design projects focused on **conceptual modeling, UML diagrams and relational database design**.
@@ -43,6 +49,7 @@ Collection of database design projects focused on **conceptual modeling, UML dia
 ## Technologies
 
 Python • Pandas • Scikit-learn • LightGBM  
+TensorFlow • Keras  
 Flask • React • SQL • UML  
 Git • GitHub • Dataiku
 
